@@ -1,7 +1,7 @@
 # A React App Example
 
 ## Overview
-
+ 
 Before we dive in and start working on specific parts of a React project, let's
 take a look at a simple React app so we can understand it at a high level.
 
